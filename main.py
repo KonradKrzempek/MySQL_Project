@@ -6,7 +6,7 @@ import time
 mysql_db = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="Locoroco1",
+    password="password",
     database="Spotify"
 )
 cursor = mysql_db.cursor()
