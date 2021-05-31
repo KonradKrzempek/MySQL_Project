@@ -1,5 +1,5 @@
 # MySQL_Project
-###### by Mateusz Janik & Konrad Krzempek
+###### by Konrad Krzempek & Mateusz Janik
 
 Projekt zawiera przykładową bazę danych zzawierającą informację o utworach muzycznych i ich wykonawcach.
 Elementy zawarte w projekcie:
